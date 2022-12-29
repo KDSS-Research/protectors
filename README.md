@@ -14,3 +14,9 @@ I, the author of these programs, am not responsible for their use or for actions
 <h3>After</h3>
 <img src="https://github.com/KDSS-Research/KDSSR-SITE-DOWNLOADS/blob/main/die_8CK7nFjH0F.png?raw=true">
 <img src="https://github.com/KDSS-Research/KDSSR-SITE-DOWNLOADS/blob/main/ConEmu64_NVmAeoQd7u.png?raw=true">
+</pre>
+<h1>Nuitka Hider</h1><br>
+<pre>
+- String corrupter
+</pre>
+<h3>Cant give screenshots because there isnt any unpackers and detector signatures...</h3>
