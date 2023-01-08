@@ -20,3 +20,16 @@ I, the author of these programs, am not responsible for their use or for actions
 - String corrupter
 </pre>
 <h3>Cant give screenshots because there isnt any unpackers and detector signatures...</h3>
+<h1>Roach Attack</h1><br>
+<pre>
+- File compressor
+- Choose best method
+</pre>
+<h1>HeadProtector</h1><br>
+<pre>
+- Can lock app by password
+- Anti-Debug
+- XOR
+- Trash variables
+- AES
+</pre>
